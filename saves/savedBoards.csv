@@ -1,5 +1,2 @@
 boardName,toMove,turn
 emptyBoard,w,0
-MovementTest,w,1
-testsave,w,5
-testsave2,w,2
